@@ -27,12 +27,12 @@ I'm Mohammad Mahdi Erfani
 </p>
   
 ### 📫How to reach me: 
-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MohammadMahdiErfani/)
-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MohammadMahdiErfani1@gmail.com)
+- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MuhammadMahdiErfani/)
+- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MuhammadMahdiErfani@gmail.com)
 
 
-<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiErfani&theme=react&layout=compact" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMErfani&theme=react&layout=compact" />
 
-![Mohammad Mahdi Erfani's github stats](https://github-readme-stats.vercel.app/api?username=MohammadMahdiErfani&theme=react&show_icons=true&include_all_commits=true)
+![Mohammad Mahdi Erfani's github stats](https://github-readme-stats.vercel.app/api?username=MMErfani&theme=react&show_icons=true&include_all_commits=true)
 
 
